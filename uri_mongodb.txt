@@ -1,0 +1,5 @@
+mongodb+srv://Landers9:
+mLo91YWt8V7MRiAe@learndb.m1efy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+Mdpdb9
